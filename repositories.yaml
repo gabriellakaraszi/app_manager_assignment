@@ -1,0 +1,25 @@
+repositories:
+  - name: "core-api"
+    owner: "Platform Team"
+    creation_date: "2024-05-01"
+    url: "https://gitlab.company.com/platform/core-api"
+
+  - name: "frontend-ui"
+    owner: "Frontend Guild"
+    creation_date: "2024-06-15"
+    url:"https://gitlab.company.com/frontend/frontend-ui"
+
+  - name: "auth-service"
+    owner: "Security Team"
+    creation_date: "2024-08-22"
+    url: "https://gitlab.company.com/security/auth-service"
+
+  - name: "payment-gateway"
+    owner: "Finance IT"
+    creation_date: "2024-11-05"
+    url: "https://gitlab.company.com/finance/payment-gateway"
+
+  - name: "billing-system"
+    owner: "Finance IT"
+    creation_date: "2025-02-30"
+    url: "https://gitlab.company.com/finance/billing"

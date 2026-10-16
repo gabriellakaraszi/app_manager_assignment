@@ -1,0 +1,113 @@
+users:
+  - id: 101
+    name: "John Doe"
+    email: "john.doe@aldi-sued.com"
+    role: "Developer"
+    registration_date: "2025-01-15"
+    last_active: "2026-03-01"
+    status: "Active"
+    copilot_enabled: true
+    repositories:
+      - "core-api"
+      - "frontend-ui"
+  - id: 102
+    name: "Jane Smith"
+    email: "jane.smith@aldi-sued.com"
+    role: "Maintainer"
+    registration_date: "2025-02-10"
+    last_active: "2026-03-01"
+    status: "Active"
+    copilot_enabled: true
+    repositories:
+      - "auth-service"
+  - id: 103
+    name: "Alex Jones"
+      email: "alex.jones@partner-vendor.com"
+    role: "Owner"
+    registration_date: "2025-03-01"
+    last_active: "2025-09-15"
+    status: "External-Project-Closed"
+    copilot_enabled: true
+    repositories:
+      - "payment-gateway"
+  - id: 104
+    name: "David Miller"
+    email: "david.miller@aldi-sued.com"
+    role: "Developer"
+    registration_date: "2025-05-20"
+    last_active: "2025-11-12"
+    status: "Inactive"
+    copilot_enabled: true
+    repositories:
+      - "frontend-ui"
+  - id: 105
+    name: "Jane Doe"
+    email: "jane.doe@aldi-sued.com"
+    role: "Reporter"
+    registration_date: "2025-06-11"
+    last_active: "2026-02-28"
+    status: "Active"
+    copilot_enabled: true
+    repositories:
+      - "core-api"
+        - "frontend-ui"
+  - id: 106
+    name: "Tom Wilson"
+    email: "tom.wilson@aldi-sued.com"
+    role: "Developer"
+    registration_date: "2025-07-02"
+    last_active: "2026-03-02"
+    status: "Active"
+    copilot_enabled: true
+    repositories:
+    - "billing-system"
+  - id: 107
+    name: "Emma Watson"
+    email: "emma.watson@aldi-sued.com"
+    role: "Developer"
+    registration_date: "2025-08-19"
+    last_active: "2026-02-25"
+    status: "Active"
+    copilot_enabled: true
+    repositories:
+      - "frontend-ui"
+  - id: 108
+    name: "Bruce Wayne"
+    email: "bruce.wayne@waynecorp.com"
+    role: "Developer"
+    registration_date: "2025-09-05"
+    last_active: "2026-03-01"
+    status: "Active"
+    copilot_enabled: true
+    repositories:
+      - "auth-service"
+  - id: 109
+    name: "Clark Kent"
+    email: "clark.kent@aldi-sued.com"
+  role: "Reporter"
+    registration_date: "2025-10-12"
+    last_active: "2026-01-10"
+    status: "On-Leave"
+    copilot_enabled: true
+    repositories:
+      - "core-api"
+  - id: 110
+    name: "Jane Smith - Test Account"
+    email: "jane.smith.test@aldi-sued.com"
+    role: "Developer"
+    registration_date: "2026-01-05"
+    last_active: "2026-01-06"
+    status: "Active"
+    copilot_enabled: true
+    repositories:
+      - "auth-service"
+  - id: 111
+    name: "Kevin Smith"
+    email: "kevin.smith@aldi-sued.com"
+    role: "System-Admin-All"
+    registration_date: "2026-10-16"
+    last_active: ""
+    status: "Active"
+    copilot_enabled: true
+    repositories:
+      - "frontend-ui"
